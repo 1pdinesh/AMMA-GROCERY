@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087965588225",
+    "firebase_url": "https://amma-project-4d9c1.firebaseio.com",
+    "project_id": "amma-project-4d9c1",
+    "storage_bucket": "amma-project-4d9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087965588225:android:4aff206ae55cb2cb",
+        "android_client_info": {
+          "package_name": "com.example.amma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087965588225-8sc5bpv7gc4sihig01ithggjk7g0218j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amma",
+            "certificate_hash": "3143a06b0dea43cdbb3abe6b9c2a69557aee60cc"
+          }
+        },
+        {
+          "client_id": "1087965588225-sfmch49vij5c556it75ntkp9th8frnmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4QBlY_9RKMewuxJmp_8rRjyZut3iKGnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087965588225-sfmch49vij5c556it75ntkp9th8frnmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
