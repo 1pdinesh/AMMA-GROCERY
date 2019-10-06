@@ -100,7 +100,7 @@ public class LoginActivity extends AppCompatActivity {
             AllowAccess(phone, password);
         }
 
-
+//jjj
     }
     private void AllowAccess(final String phone, final String password)
     {
